@@ -130,7 +130,7 @@ $clipubkeyf   = 'curl_client_key.pub';    # client public key file
     /usr/libexec/openssh
     /usr/libexec
     /usr/local/libexec
-    /opt/local/libexec
+    /usr/local/libexec
     /usr/lib/ssh
     /usr/libexec/ssh
     /usr/sbin
